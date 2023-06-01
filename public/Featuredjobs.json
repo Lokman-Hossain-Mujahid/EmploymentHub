@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "title":"Technical Database Engineer",
+        "company":"Google inc",
+        "jobtype":"Full time",
+        "jobplace":"Remote",
+        "img": "/Logo/google-1-1 1.png",
+        "location": "USA , Washington",
+        "salary":"150-200k"
+
+    },
+    {
+        "id":"2",
+        "title":"Senior Video Editor",
+        "company":"Netflix corp",
+        "jobtype":"Full time",
+        "jobplace":"Onsite",
+        "img": "/Logo/netflix-4 1.png",
+        "location": "UK , London",
+        "salary":"100-150k"
+
+    },
+    {
+        "id":"3",
+        "title":"Software Engineer",
+        "company":"Google inc",
+        "jobtype":"Full time",
+        "jobplace":"Onsite",
+        "img": "/Logo/google-1-1 1-1.png",
+        "location": "USA , Washington",
+        "salary":"150-200k"
+    },
+    {
+        "id":"4",
+        "title":"Technical Database Analyst",
+        "company":"Tesla LTD",
+        "jobtype":"Full time",
+        "jobplace":"Remote",
+        "img": "/Logo/tesla-9 1.png",
+        "location": "UAE , Dubai",
+        "salary":"120-220k"
+    },
+    {
+        "id":"5",
+        "title":"Junior Web Developer",
+        "company":"Netflix corp",
+        "jobtype":"Full time",
+        "jobplace":"Onsite",
+        "img": "/Logo/netflix-4 1.png",
+        "location": "USA , California",
+        "salary":"120-220k"
+    },
+    {
+        "id":"6",
+        "title":"Accountant",
+        "company":"Tesla LTD",
+        "jobtype":"Full time",
+        "jobplace":"Remote",
+        "img": "/Logo/tesla-9 1.png",
+        "location": "UAE , Dubai",
+        "salary":"120-220k"
+    }
+
+]

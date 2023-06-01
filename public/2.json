@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2",
+        "title": "Senior Video Editor",
+        "company": "Netflix corp",
+        "jobtype": "Full time",
+        "jobplace": "Onsite",
+        "img": "/Logo/netflix-4 1.png",
+        "location": "UK , London",
+        "salary": "100-150k",
+        "job_description": "Responsible for leading the video editing team and overseeing the production of high-quality video content. Collaborate with creative teams to bring video concepts to life and ensure the final product meets client expectations.",
+        "job_responsibility": "1. Lead and manage the video editing team.\n2. Collaborate with creative teams to understand video concept and client requirements.\n3. Edit video content to create compelling stories and messages.\n4. Review and approve final edits.\n5. Ensure all video content meets brand and style guidelines.\n6. Manage and organize video files and assets.\n7. Stay up-to-date with the latest video editing software and techniques.\n8. Provide guidance and feedback to junior video editors.",
+        "educational_requirements": "Bachelor's degree in film, video production, or a related field.",
+        "experience": "Minimum of 5 years of experience in video editing with a strong portfolio showcasing experience in a leadership role.",
+        "email": "videoeditor@gmail.com",
+        "phone": "+1-345-678-9012",
+        "address": "789 Main St, Anytown, USA"
+    }
+]

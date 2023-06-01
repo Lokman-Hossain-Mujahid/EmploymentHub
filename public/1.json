@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "title": "Technical Database Engineer",
+        "company": "google inc",
+        "jobtype": "Full time",
+        "jobplace": "Remote",
+        "img": "/Logo/google-1-1 1-1.png",
+        "location": "USA , Washington",
+        "salary": "150-200k",
+        "job_description": "Responsible for designing and maintaining technical database systems to meet organizational needs. Collaborate with cross-functional teams to ensure efficient and secure management of data.",
+        "job_responsibility": "1. Design, implement, and maintain technical database systems.\n2. Collaborate with cross-functional teams to identify and address database-related issues.\n3. Develop and implement procedures for database backup and recovery.\n4. Optimize database performance and ensure scalability.\n5. Monitor database systems to ensure data security and integrity.\n6. Troubleshoot and resolve database-related issues.\n7. Design and implement data models, database schemas, and data dictionaries.\n8. Develop and maintain database documentation and standards.",
+        "educational_requirements": "Bachelor's or master's degree in computer science, information technology, or a related field.",
+        "experience": "Minimum of 3 years of experience in technical database engineering.",
+        "email": "xyz@gmail.com",
+        "phone": "+1-234-567-8901",
+        "address": "456 Main St, Anytown, USA"
+    }
+]

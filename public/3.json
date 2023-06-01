@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3",
+        "title": "Software Engineer",
+        "company": "Google inc",
+        "jobtype": "Full time",
+        "jobplace": "Onsite",
+        "img": "/Logo/google-1-1 1-1.png",
+        "location": "USA , Washington",
+        "salary": "150-200k",
+        "job_description": "Responsible for designing, developing, and maintaining software applications and systems. Collaborate with cross-functional teams to ensure software solutions meet organizational needs and industry standards.",
+        "job_responsibility": "1. Develop high-quality software design and architecture.\n2. Write clean, efficient, and maintainable code for software applications.\n3. Develop and maintain software documentation and specifications.\n4. Test and debug software to ensure high-quality and error-free products.\n5. Collaborate with cross-functional teams to identify and address software issues.\n6. Conduct software analysis to optimize software performance and improve efficiency.\n7. Stay up-to-date with the latest software development trends and techniques.\n8. Provide technical guidance and mentorship to junior software engineers.",
+        "educational_requirements": "Bachelor's or master's degree in computer science, software engineering, or a related field.",
+        "experience": "Minimum of 3 years of experience in software engineering with a strong portfolio showcasing experience in software development and design.",
+        "email": "softwareengineer@gmail.com",
+        "phone": "+1-456-789-0123",
+        "address": "1234 Main St, Anytown, USA"
+    }
+]

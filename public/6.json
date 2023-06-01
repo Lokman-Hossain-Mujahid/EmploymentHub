@@ -1,0 +1,19 @@
+[
+    {
+        "id": "6",
+        "title": "Accountant",
+        "company": "Tesla LTD",
+        "jobtype": "Full time",
+        "jobplace": "Remote",
+        "img": "/Logo/tesla-9 1.png",
+        "location": "UAE , Dubai",
+        "salary": "120-220k",
+        "job_description": "Responsible for managing financial transactions, ensuring compliance with accounting regulations and standards, and producing financial reports. Work in collaboration with cross-functional teams to ensure accurate and timely financial reporting.",
+        "job_responsibility": "1. Manage day-to-day financial transactions and bookkeeping.\n2. Prepare financial reports, including balance sheets, income statements, and cash flow statements.\n3. Ensure compliance with accounting regulations and standards.\n4. Analyze financial data and identify trends and areas for improvement.\n5. Collaborate with cross-functional teams to ensure accurate and timely financial reporting.\n6. Prepare tax returns and other financial documents for external auditing.\n7. Develop and maintain accounting procedures and documentation.\n8. Provide support and guidance to junior accounting staff.",
+        "educational_requirements": "Bachelor's or master's degree in accounting, finance, or a related field.",
+        "experience": "Minimum of 3 years of experience in accounting with a strong understanding of accounting principles and financial reporting.",
+        "email": "accountant@gmail.com",
+        "phone": "+1-789-012-3456",
+        "address": "12345 Main St, Anytown, USA"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "4",
+        "title": "Technical Database Analyst",
+        "company": "Tesla LTD",
+        "jobtype": "Full time",
+        "jobplace": "Remote",
+        "img": "/Logo/tesla-9 1.png",
+        "location": "UAE , Dubai",
+        "salary": "120-220k",
+        "job_description": "Responsible for analyzing and managing technical databases to ensure efficient and secure data management. Collaborate with cross-functional teams to identify and address database-related issues and provide technical guidance to optimize database performance.",
+        "job_responsibility": "1. Analyze and optimize database performance to ensure scalability and efficiency.\n2. Design and implement procedures for database backup and recovery.\n3. Monitor database systems to ensure data security and integrity.\n4. Troubleshoot and resolve database-related issues.\n5. Collaborate with cross-functional teams to identify and address database-related issues.\n6. Design and implement data models, database schemas, and data dictionaries.\n7. Develop and maintain database documentation and standards.\n8. Provide technical guidance and mentorship to junior technical database analysts.",
+        "educational_requirements": "Bachelor's or master's degree in computer science, information technology, or a related field.",
+        "experience": "Minimum of 3 years of experience in technical database analysis with a strong understanding of SQL and database management.",
+        "email": "techdatabaseanalyst@gmail.com",
+        "phone": "+1-567-890-1234",
+        "address": "5678 Main St, Anytown, USA"
+    }
+]
